@@ -1,3 +1,4 @@
 # ApnaCollegeTutorial
-Today i am learning the gi and github tutorial
+Today i am learning the git and github tutorial
+<br>
 Autthor: Shrusti Shripannavar
